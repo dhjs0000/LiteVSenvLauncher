@@ -5,3 +5,4 @@ dist/
 *.zip
 vsenv.exe
 vsenv.pdb
+.vscode/
